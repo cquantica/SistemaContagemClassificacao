@@ -27,8 +27,6 @@ for (let contador = 0; contador <= numeroDeAlunos; contador++) {
 // });
 
 
-//}
-
 
 
 //while (contador <= numeroDeAlunos) {
